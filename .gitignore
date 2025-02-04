@@ -1,0 +1,12 @@
+# .NET Core build files
+bin/
+obj/
+
+# User secrets (contains sensitive information)
+appsettings.Development.json
+appsettings.json
+
+# User-specific files
+.vscode/
+.idea/
+*.user
